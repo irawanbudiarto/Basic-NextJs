@@ -1,7 +1,7 @@
 export default function Blog() {
     return (
         <div>
-            <p>Halaman Blog</p>
+            <p className="title">Halaman Blog</p>
         </div>
     )
 }
